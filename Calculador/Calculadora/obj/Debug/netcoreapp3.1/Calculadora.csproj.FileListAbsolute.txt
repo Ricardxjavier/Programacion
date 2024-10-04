@@ -1,0 +1,15 @@
+C:\Users\Ricardo Javier\Downloads\Calculadora-main\Calculadora-main\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.exe
+C:\Users\Ricardo Javier\Downloads\Calculadora-main\Calculadora-main\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.deps.json
+C:\Users\Ricardo Javier\Downloads\Calculadora-main\Calculadora-main\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.runtimeconfig.json
+C:\Users\Ricardo Javier\Downloads\Calculadora-main\Calculadora-main\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.runtimeconfig.dev.json
+C:\Users\Ricardo Javier\Downloads\Calculadora-main\Calculadora-main\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.dll
+C:\Users\Ricardo Javier\Downloads\Calculadora-main\Calculadora-main\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.pdb
+C:\Users\Ricardo Javier\Downloads\Calculadora-main\Calculadora-main\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.Form1.resources
+C:\Users\Ricardo Javier\Downloads\Calculadora-main\Calculadora-main\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.csproj.GenerateResource.cache
+C:\Users\Ricardo Javier\Downloads\Calculadora-main\Calculadora-main\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ricardo Javier\Downloads\Calculadora-main\Calculadora-main\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.AssemblyInfoInputs.cache
+C:\Users\Ricardo Javier\Downloads\Calculadora-main\Calculadora-main\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.AssemblyInfo.cs
+C:\Users\Ricardo Javier\Downloads\Calculadora-main\Calculadora-main\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Ricardo Javier\Downloads\Calculadora-main\Calculadora-main\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.dll
+C:\Users\Ricardo Javier\Downloads\Calculadora-main\Calculadora-main\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.pdb
+C:\Users\Ricardo Javier\Downloads\Calculadora-main\Calculadora-main\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.genruntimeconfig.cache
