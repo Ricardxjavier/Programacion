@@ -1,0 +1,14 @@
+C:\Users\Ricardo Javier\OneDrive\Desktop\DataJson\DataJson\obj\Debug\net8.0\DataJson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ricardo Javier\OneDrive\Desktop\DataJson\DataJson\obj\Debug\net8.0\DataJson.AssemblyInfoInputs.cache
+C:\Users\Ricardo Javier\OneDrive\Desktop\DataJson\DataJson\obj\Debug\net8.0\DataJson.AssemblyInfo.cs
+C:\Users\Ricardo Javier\OneDrive\Desktop\DataJson\DataJson\obj\Debug\net8.0\DataJson.csproj.CoreCompileInputs.cache
+C:\Users\Ricardo Javier\OneDrive\Desktop\DataJson\DataJson\bin\Debug\net8.0\DataJson.exe
+C:\Users\Ricardo Javier\OneDrive\Desktop\DataJson\DataJson\bin\Debug\net8.0\DataJson.deps.json
+C:\Users\Ricardo Javier\OneDrive\Desktop\DataJson\DataJson\bin\Debug\net8.0\DataJson.runtimeconfig.json
+C:\Users\Ricardo Javier\OneDrive\Desktop\DataJson\DataJson\bin\Debug\net8.0\DataJson.dll
+C:\Users\Ricardo Javier\OneDrive\Desktop\DataJson\DataJson\bin\Debug\net8.0\DataJson.pdb
+C:\Users\Ricardo Javier\OneDrive\Desktop\DataJson\DataJson\obj\Debug\net8.0\DataJson.dll
+C:\Users\Ricardo Javier\OneDrive\Desktop\DataJson\DataJson\obj\Debug\net8.0\refint\DataJson.dll
+C:\Users\Ricardo Javier\OneDrive\Desktop\DataJson\DataJson\obj\Debug\net8.0\DataJson.pdb
+C:\Users\Ricardo Javier\OneDrive\Desktop\DataJson\DataJson\obj\Debug\net8.0\DataJson.genruntimeconfig.cache
+C:\Users\Ricardo Javier\OneDrive\Desktop\DataJson\DataJson\obj\Debug\net8.0\ref\DataJson.dll
