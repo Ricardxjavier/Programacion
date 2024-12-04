@@ -1,0 +1,10 @@
+C:\Users\Ricardo Javier\OneDrive\Desktop\DataTimePicker\DataTimePicker\bin\Debug\DataTimePicker.exe.config
+C:\Users\Ricardo Javier\OneDrive\Desktop\DataTimePicker\DataTimePicker\bin\Debug\DataTimePicker.exe
+C:\Users\Ricardo Javier\OneDrive\Desktop\DataTimePicker\DataTimePicker\bin\Debug\DataTimePicker.pdb
+C:\Users\Ricardo Javier\OneDrive\Desktop\DataTimePicker\DataTimePicker\obj\Debug\DataTimePicker.csproj.AssemblyReference.cache
+C:\Users\Ricardo Javier\OneDrive\Desktop\DataTimePicker\DataTimePicker\obj\Debug\DataTimePicker.Form1.resources
+C:\Users\Ricardo Javier\OneDrive\Desktop\DataTimePicker\DataTimePicker\obj\Debug\DataTimePicker.Properties.Resources.resources
+C:\Users\Ricardo Javier\OneDrive\Desktop\DataTimePicker\DataTimePicker\obj\Debug\DataTimePicker.csproj.GenerateResource.cache
+C:\Users\Ricardo Javier\OneDrive\Desktop\DataTimePicker\DataTimePicker\obj\Debug\DataTimePicker.csproj.CoreCompileInputs.cache
+C:\Users\Ricardo Javier\OneDrive\Desktop\DataTimePicker\DataTimePicker\obj\Debug\DataTimePicker.exe
+C:\Users\Ricardo Javier\OneDrive\Desktop\DataTimePicker\DataTimePicker\obj\Debug\DataTimePicker.pdb
