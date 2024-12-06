@@ -1,0 +1,10 @@
+C:\Users\Ricardo Javier\OneDrive\Desktop\OpenFileDialog\OpenFileDialog\bin\Debug\OpenFileDialog.exe.config
+C:\Users\Ricardo Javier\OneDrive\Desktop\OpenFileDialog\OpenFileDialog\bin\Debug\OpenFileDialog.exe
+C:\Users\Ricardo Javier\OneDrive\Desktop\OpenFileDialog\OpenFileDialog\bin\Debug\OpenFileDialog.pdb
+C:\Users\Ricardo Javier\OneDrive\Desktop\OpenFileDialog\OpenFileDialog\obj\Debug\OpenFileDialog.csproj.AssemblyReference.cache
+C:\Users\Ricardo Javier\OneDrive\Desktop\OpenFileDialog\OpenFileDialog\obj\Debug\OpenFileDialog.Form1.resources
+C:\Users\Ricardo Javier\OneDrive\Desktop\OpenFileDialog\OpenFileDialog\obj\Debug\OpenFileDialog.Properties.Resources.resources
+C:\Users\Ricardo Javier\OneDrive\Desktop\OpenFileDialog\OpenFileDialog\obj\Debug\OpenFileDialog.csproj.GenerateResource.cache
+C:\Users\Ricardo Javier\OneDrive\Desktop\OpenFileDialog\OpenFileDialog\obj\Debug\OpenFileDialog.csproj.CoreCompileInputs.cache
+C:\Users\Ricardo Javier\OneDrive\Desktop\OpenFileDialog\OpenFileDialog\obj\Debug\OpenFileDialog.exe
+C:\Users\Ricardo Javier\OneDrive\Desktop\OpenFileDialog\OpenFileDialog\obj\Debug\OpenFileDialog.pdb
