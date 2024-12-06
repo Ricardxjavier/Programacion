@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "1gGGoqpE3Wc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ricardo Javier\\OneDrive\\Desktop\\liteq\\LiteQ\\LiteQ.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ricardo Javier\\.nuget\\packages\\litedb\\5.0.21\\litedb.5.0.21.nupkg.sha512",
+    "C:\\Users\\Ricardo Javier\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512"
+  ],
+  "logs": []
+}
