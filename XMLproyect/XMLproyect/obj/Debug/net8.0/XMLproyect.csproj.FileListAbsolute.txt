@@ -1,0 +1,4 @@
+C:\Users\Ricardo Javier\OneDrive\Desktop\XMLproyect\XMLproyect\obj\Debug\net8.0\XMLproyect.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ricardo Javier\OneDrive\Desktop\XMLproyect\XMLproyect\obj\Debug\net8.0\XMLproyect.AssemblyInfoInputs.cache
+C:\Users\Ricardo Javier\OneDrive\Desktop\XMLproyect\XMLproyect\obj\Debug\net8.0\XMLproyect.AssemblyInfo.cs
+C:\Users\Ricardo Javier\OneDrive\Desktop\XMLproyect\XMLproyect\obj\Debug\net8.0\XMLproyect.csproj.CoreCompileInputs.cache
