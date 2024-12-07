@@ -1,0 +1,14 @@
+C:\Users\Ricardo Javier\OneDrive\Desktop\MiAplicacionWinForms\bin\Debug\net6.0-windows\MiAplicacionWinForms.exe
+C:\Users\Ricardo Javier\OneDrive\Desktop\MiAplicacionWinForms\bin\Debug\net6.0-windows\MiAplicacionWinForms.deps.json
+C:\Users\Ricardo Javier\OneDrive\Desktop\MiAplicacionWinForms\bin\Debug\net6.0-windows\MiAplicacionWinForms.runtimeconfig.json
+C:\Users\Ricardo Javier\OneDrive\Desktop\MiAplicacionWinForms\bin\Debug\net6.0-windows\MiAplicacionWinForms.dll
+C:\Users\Ricardo Javier\OneDrive\Desktop\MiAplicacionWinForms\bin\Debug\net6.0-windows\MiAplicacionWinForms.pdb
+C:\Users\Ricardo Javier\OneDrive\Desktop\MiAplicacionWinForms\obj\Debug\net6.0-windows\MiAplicacionWinForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ricardo Javier\OneDrive\Desktop\MiAplicacionWinForms\obj\Debug\net6.0-windows\MiAplicacionWinForms.AssemblyInfoInputs.cache
+C:\Users\Ricardo Javier\OneDrive\Desktop\MiAplicacionWinForms\obj\Debug\net6.0-windows\MiAplicacionWinForms.AssemblyInfo.cs
+C:\Users\Ricardo Javier\OneDrive\Desktop\MiAplicacionWinForms\obj\Debug\net6.0-windows\MiAplicacionWinForms.csproj.CoreCompileInputs.cache
+C:\Users\Ricardo Javier\OneDrive\Desktop\MiAplicacionWinForms\obj\Debug\net6.0-windows\MiAplicacionWinForms.dll
+C:\Users\Ricardo Javier\OneDrive\Desktop\MiAplicacionWinForms\obj\Debug\net6.0-windows\refint\MiAplicacionWinForms.dll
+C:\Users\Ricardo Javier\OneDrive\Desktop\MiAplicacionWinForms\obj\Debug\net6.0-windows\MiAplicacionWinForms.pdb
+C:\Users\Ricardo Javier\OneDrive\Desktop\MiAplicacionWinForms\obj\Debug\net6.0-windows\MiAplicacionWinForms.genruntimeconfig.cache
+C:\Users\Ricardo Javier\OneDrive\Desktop\MiAplicacionWinForms\obj\Debug\net6.0-windows\ref\MiAplicacionWinForms.dll
