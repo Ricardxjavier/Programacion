@@ -1,0 +1,10 @@
+C:\Users\Ricardo Javier\OneDrive\Desktop\ToolStripContainer\ToolStripContainer\bin\Debug\ToolStripContainer.exe.config
+C:\Users\Ricardo Javier\OneDrive\Desktop\ToolStripContainer\ToolStripContainer\bin\Debug\ToolStripContainer.exe
+C:\Users\Ricardo Javier\OneDrive\Desktop\ToolStripContainer\ToolStripContainer\bin\Debug\ToolStripContainer.pdb
+C:\Users\Ricardo Javier\OneDrive\Desktop\ToolStripContainer\ToolStripContainer\obj\Debug\ToolStripContainer.csproj.AssemblyReference.cache
+C:\Users\Ricardo Javier\OneDrive\Desktop\ToolStripContainer\ToolStripContainer\obj\Debug\ToolStripContainer.Form1.resources
+C:\Users\Ricardo Javier\OneDrive\Desktop\ToolStripContainer\ToolStripContainer\obj\Debug\ToolStripContainer.Properties.Resources.resources
+C:\Users\Ricardo Javier\OneDrive\Desktop\ToolStripContainer\ToolStripContainer\obj\Debug\ToolStripContainer.csproj.GenerateResource.cache
+C:\Users\Ricardo Javier\OneDrive\Desktop\ToolStripContainer\ToolStripContainer\obj\Debug\ToolStripContainer.csproj.CoreCompileInputs.cache
+C:\Users\Ricardo Javier\OneDrive\Desktop\ToolStripContainer\ToolStripContainer\obj\Debug\ToolStripContainer.exe
+C:\Users\Ricardo Javier\OneDrive\Desktop\ToolStripContainer\ToolStripContainer\obj\Debug\ToolStripContainer.pdb
